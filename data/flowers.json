@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Tulip",
+    "price": 5.99,
+    "color": "red",
+    "difficulty": "easy",
+    "days_to_live": 10,
+    "in_stock": true
+  },
+  {
+    "id": 2,
+    "name": "Daffodil",
+    "price": 4.49,
+    "color": "yellow",
+    "difficulty": "medium",
+    "days_to_live": 12,
+    "in_stock": true
+  },
+  {
+    "id": 3,
+    "name": "Hyacinth",
+    "price": 7.99,
+    "color": "purple",
+    "difficulty": "hard",
+    "days_to_live": 8,
+    "in_stock": false
+  },
+  {
+    "id": 4,
+    "name": "Rose",
+    "price": 6.99,
+    "color": "pink",
+    "difficulty": "medium",
+    "days_to_live": 14,
+    "in_stock": true
+  },
+  {
+    "id": 5,
+    "name": "Daisy",
+    "price": 3.99,
+    "color": "white",
+    "difficulty": "easy",
+    "days_to_live": 9,
+    "in_stock": true
+  },
+  {
+    "id": 6,
+    "name": "Lily",
+    "price": 8.49,
+    "color": "orange",
+    "difficulty": "hard",
+    "days_to_live": 11,
+    "in_stock": true
+  },
+  {
+    "id": 7,
+    "name": "Carnation",
+    "price": 5.29,
+    "color": "pink",
+    "difficulty": "medium",
+    "days_to_live": 13,
+    "in_stock": false
+  },
+  {
+    "id": 8,
+    "name": "Sunflower",
+    "price": 9.99,
+    "color": "yellow",
+    "difficulty": "easy",
+    "days_to_live": 10,
+    "in_stock": true
+  },
+  {
+    "id": 9,
+    "name": "Peony",
+    "price": 12.99,
+    "color": "pink",
+    "difficulty": "hard",
+    "days_to_live": 16,
+    "in_stock": true
+  },
+  {
+    "id": 10,
+    "name": "Lavender",
+    "price": 7.79,
+    "color": "purple",
+    "difficulty": "medium",
+    "days_to_live": 10,
+    "in_stock": true
+  },
+  {
+    "id": 11,
+    "name": "Iris",
+    "price": 6.49,
+    "color": "blue",
+    "difficulty": "hard",
+    "days_to_live": 12,
+    "in_stock": false
+  },
+  {
+    "id": 12,
+    "name": "Freesia",
+    "price": 8.99,
+    "color": "white",
+    "difficulty": "medium",
+    "days_to_live": 11,
+    "in_stock": true
+  },
+  {
+    "id": 13,
+    "name": "Poppy",
+    "price": 5.49,
+    "color": "red",
+    "difficulty": "easy",
+    "days_to_live": 9,
+    "in_stock": true
+  },
+  {
+    "id": 14,
+    "name": "Chrysanthemum",
+    "price": 7.29,
+    "color": "yellow",
+    "difficulty": "hard",
+    "days_to_live": 15,
+    "in_stock": true
+  },
+  {
+    "id": 15,
+    "name": "Anemone",
+    "price": 6.79,
+    "color": "purple",
+    "difficulty": "medium",
+    "days_to_live": 10,
+    "in_stock": true
+  },
+  {
+    "id": 16,
+    "name": "Snapdragon",
+    "price": 5.99,
+    "color": "orange",
+    "difficulty": "medium",
+    "days_to_live": 12,
+    "in_stock": false
+  },
+  {
+    "id": 17,
+    "name": "Cosmos",
+    "price": 4.99,
+    "color": "pink",
+    "difficulty": "easy",
+    "days_to_live": 9,
+    "in_stock": true
+  },
+  {
+    "id": 18,
+    "name": "Begonia",
+    "price": 7.49,
+    "color": "red",
+    "difficulty": "hard",
+    "days_to_live": 14,
+    "in_stock": true
+  },
+  {
+    "id": 19,
+    "name": "Zinnia",
+    "price": 6.29,
+    "color": "yellow",
+    "difficulty": "medium",
+    "days_to_live": 11,
+    "in_stock": true
+  },
+  {
+    "id": 20,
+    "name": "Aster",
+    "price": 5.79,
+    "color": "purple",
+    "difficulty": "medium",
+    "days_to_live": 12,
+    "in_stock": true
+  },
+  {
+    "id": 21,
+    "name": "Gladiolus",
+    "price": 9.49,
+    "color": "pink",
+    "difficulty": "hard",
+    "days_to_live": 16,
+    "in_stock": false
+  },
+  {
+    "id": 22,
+    "name": "Verbena",
+    "price": 8.79,
+    "color": "purple",
+    "difficulty": "medium",
+    "days_to_live": 11,
+    "in_stock": true
+  },
+  {
+    "id": 23,
+    "name": "Phlox",
+    "price": 6.49,
+    "color": "pink",
+    "difficulty": "easy",
+    "days_to_live": 10,
+    "in_stock": true
+  },
+  {
+    "id": 24,
+    "name": "Borage",
+    "price": 7.99,
+    "color": "blue",
+    "difficulty": "hard",
+    "days_to_live": 13,
+    "in_stock": true
+  },
+  {
+    "id": 25,
+    "name": "Calendula",
+    "price": 5.29,
+    "color": "orange",
+    "difficulty": "medium",
+    "days_to_live": 11,
+    "in_stock": true
+  },
+  {
+    "id": 26,
+    "name": "Dahlia",
+    "price": 8.99,
+    "color": "yellow",
+    "difficulty": "hard",
+    "days_to_live": 15,
+    "in_stock": true
+  },
+  {
+    "id": 27,
+    "name": "Fuchsia",
+    "price": 7.79,
+    "color": "purple",
+    "difficulty": "medium",
+    "days_to_live": 12,
+    "in_stock": false
+  },
+  {
+    "id": 28,
+    "name": "Gerbera",
+    "price": 6.99,
+    "color": "red",
+    "difficulty": "easy",
+    "days_to_live": 10,
+    "in_stock": true
+  },
+  {
+    "id": 29,
+    "name": "Hollyhock",
+    "price": 9.49,
+    "color": "pink",
+    "difficulty": "hard",
+    "days_to_live": 16,
+    "in_stock": true
+  },
+  {
+    "id": 30,
+    "name": "Lupine",
+    "price": 8.29,
+    "color": "blue",
+    "difficulty": "medium",
+    "days_to_live": 11,
+    "in_stock": true
+  },
+  {
+    "id": 31,
+    "name": "Nasturtium",
+    "price": 6.49,
+    "color": "orange",
+    "difficulty": "easy",
+    "days_to_live": 9,
+    "in_stock": true
+  },
+  {
+    "id": 32,
+    "name": "Orchid",
+    "price": 11.99,
+    "color": "purple",
+    "difficulty": "hard",
+    "days_to_live": 14,
+    "in_stock": true
+  },
+  {
+    "id": 33,
+    "name": "Pansy",
+    "price": 5.99,
+    "color": "yellow",
+    "difficulty": "medium",
+    "days_to_live": 12,
+    "in_stock": true
+  },
+  {
+    "id": 34,
+    "name": "Petunia",
+    "price": 4.99,
+    "color": "pink",
+    "difficulty": "medium",
+    "days_to_live": 11,
+    "in_stock": true
+  },
+  {
+    "id": 35,
+    "name": "Primrose",
+    "price": 7.29,
+    "color": "yellow",
+    "difficulty": "easy",
+    "days_to_live": 10,
+    "in_stock": true
+  },
+  {
+    "id": 36,
+    "name": "Statice",
+    "price": 6.49,
+    "color": "purple",
+    "difficulty": "hard",
+    "days_to_live": 15,
+    "in_stock": true
+  },
+  {
+    "id": 37,
+    "name": "Stock",
+    "price": 5.99,
+    "color": "pink",
+    "difficulty": "medium",
+    "days_to_live": 13,
+    "in_stock": false
+  },
+  {
+    "id": 38,
+    "name": "Sweet Pea",
+    "price": 8.49,
+    "color": "purple",
+    "difficulty": "easy",
+    "days_to_live": 9,
+    "in_stock": true
+  },
+  {
+    "id": 39,
+    "name": "Bleeding Heart",
+    "price": 10.99,
+    "color": "pink",
+    "difficulty": "hard",
+    "days_to_live": 17,
+    "in_stock": true
+  },
+  {
+    "id": 40,
+    "name": "Coreopsis",
+    "price": 7.79,
+    "color": "yellow",
+    "difficulty": "medium",
+    "days_to_live": 11,
+    "in_stock": true
+  },
+  {
+    "id": 41,
+    "name": "Crocus",
+    "price": 6.99,
+    "color": "purple",
+    "difficulty": "medium",
+    "days_to_live": 12,
+    "in_stock": true
+  },
+  {
+    "id": 42,
+    "name": "Dianthus",
+    "price": 5.49,
+    "color": "pink",
+    "difficulty": "easy",
+    "days_to_live": 9,
+    "in_stock": true
+  },
+  {
+    "id": 43,
+    "name": "Fritillaria",
+    "price": 9.99,
+    "color": "yellow",
+    "difficulty": "hard",
+    "days_to_live": 14,
+    "in_stock": true
+  },
+  {
+    "id": 44,
+    "name": "Gardenia",
+    "price": 8.29,
+    "color": "white",
+    "difficulty": "medium",
+    "days_to_live": 11,
+    "in_stock": false
+  },
+  {
+    "id": 45,
+    "name": "Hibiscus",
+    "price": 6.49,
+    "color": "pink",
+    "difficulty": "easy",
+    "days_to_live": 10,
+    "in_stock": true
+  },
+  {
+    "id": 46,
+    "name": "Monkshood",
+    "price": 11.49,
+    "color": "blue",
+    "difficulty": "hard",
+    "days_to_live": 13,
+    "in_stock": true
+  },
+  {
+    "id": 47,
+    "name": "Oleander",
+    "price": 10.79,
+    "color": "pink",
+    "difficulty": "medium",
+    "days_to_live": 12,
+    "in_stock": true
+  },
+  {
+    "id": 48,
+    "name": "Rhododendron",
+    "price": 9.49,
+    "color": "purple",
+    "difficulty": "medium",
+    "days_to_live": 12,
+    "in_stock": true
+  },
+  {
+    "id": 49,
+    "name": "Sedum",
+    "price": 7.99,
+    "color": "yellow",
+    "difficulty": "easy",
+    "days_to_live": 10,
+    "in_stock": true
+  },
+  {
+    "id": 50,
+    "name": "Thistle",
+    "price": 6.29,
+    "color": "purple",
+    "difficulty": "hard",
+    "days_to_live": 14,
+    "in_stock": true
+  }
+]
